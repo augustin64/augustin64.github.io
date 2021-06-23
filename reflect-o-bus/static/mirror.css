@@ -1,0 +1,12 @@
+:root {
+    color:#fff;
+}
+
+.realtime {
+    background-size: 0.625rem;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 0.8125rem;
+    display: inline-block;
+    padding-right: 0.8125rem;
+}
