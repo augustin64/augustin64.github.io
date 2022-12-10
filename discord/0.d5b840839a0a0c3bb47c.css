@@ -1176,5 +1176,5 @@ html .tabBadge-3smxHS{background-color:hsl(359,calc(var(--saturation-factor, 1)*
 }
 
 .pointerEvents-2zdfdO {
-    border-radius: 5px;
+    visibility: hidden;
 }
