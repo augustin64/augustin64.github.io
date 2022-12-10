@@ -1170,3 +1170,11 @@ html .tabBadge-3smxHS{background-color:hsl(359,calc(var(--saturation-factor, 1)*
 .mobileHeader-3jnkN-{display:none}.desktopHeader-bjSB2N{display:block}@media (max-width:848px){.mobileHeader-3jnkN-{display:-webkit-box;display:-ms-flexbox;display:flex}.desktopHeader-bjSB2N{display:none}}
 
 /*# sourceMappingURL=0.d5b840839a0a0c3bb47c.css.map*/
+
+.avatar-VxgULZ {
+  border-radius: 100px;
+}
+
+.pointerEvents-2zdfdO {
+    border-radius: 5px;
+}
